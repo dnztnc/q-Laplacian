@@ -2,7 +2,7 @@
 
 This repository showcases research on the q-Laplacian matrix of graphs by Matt Burnham, Steve Butler, Mitchell Johnson and Deniz Tanaci, mostly done at the Iowa State Math REU in summer 2025.
 
-You can find a working draft, our poster for JMM, and our final presentation.
+You can find a working preprint draft, our poster for JMM, and our final presentation.
 
 ## Abstract
 
